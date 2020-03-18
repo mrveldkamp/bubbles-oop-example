@@ -12,6 +12,10 @@ function setup() {
     for (let n = 0; n < 20; n++) {
         bubbles.push(new Bubble());
     }
+
+    for (let n = 0; n < 10; n++) {
+      console.log("hi");
+    }
 }
 
 // Draw Function (runs 60 frames per second)
