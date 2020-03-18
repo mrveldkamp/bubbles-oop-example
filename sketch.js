@@ -2,7 +2,7 @@
 
 // Declare Global Variables
 let bubbles = [];
-let colors = ['blue', 'red', 'green', 'orange', 'purple', 'coral'];
+let colors = ['blue', 'red', 'green', 'orange', 'purple', 'coral', 'aqua'];
 
 // Setup Function (runs once before draw)
 function setup() {
